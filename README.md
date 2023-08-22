@@ -7,13 +7,15 @@ Le mini programme sur lequel vous travaillerez est localisé dans le répertoire
 
 # Préparation du projet
 
-1. Le 1er membre de l'équipe crée un dépôt nommé `tp-git-a-deux` et y ajoute une branche `develop`. 
+1. Le 1er membre de l'équipe crée un dépôt nommé `tp-git-a-deux` et y ajoute une branche `develop`.
 
-2. Le 2nd membre de l'équipe "Fork" le dépôt du 1er membre.
+2. Le 1er membre invite son binôme en tant que "collaborateur" du dépôt. 
+
+3. Le 2nd membre de l'équipe "Fork" le dépôt du 1er membre.
 
 2. Les 2 membres de l'équipe clonent leur dépôt en local sur leur machine.
 
-2. Les 2 membres de l'équipe prennent connaissance des tâches à effectuer (dans la partie "Travail à réaliser" de ce document).
+2. Les 2 membres de l'équipe prennent connaissance des tâches à effectuer (dans la partie "Travail à réaliser" de ce document) et créent les tickets nécessaires.
 
 # Démarche à adopter 
 
